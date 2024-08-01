@@ -1,0 +1,7 @@
+{
+    "name": "DP",
+    "dockerComposeFile": "../docker-compose.yaml",
+    "service": "api",
+    "workspaceFolder": "/code",
+    "shutdownAction": "stopCompose"
+  }
